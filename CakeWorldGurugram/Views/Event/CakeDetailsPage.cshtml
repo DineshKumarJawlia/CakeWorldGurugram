@@ -1,0 +1,75 @@
+﻿@model BOL.CakeViewModel
+
+
+<!-- breadcrumbs -->
+<div class="breadcrumbs">
+	<div class="container">
+		<ol class="breadcrumb breadcrumb1 animated wow slideInLeft" data-wow-delay=".5s">
+			<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>@Html.ActionLink("Home","Index","Home")</li>
+			<li class="active"> Cake Details</li>
+		</ol>
+	</div>
+</div>
+<!-- //breadcrumbs -->
+<div class="products">
+	<div class="container">
+
+		@{
+			if (Model.CakeDetailsPage.Count() > 0)
+			{
+				foreach (var obj in Model.CakeDetailsPage)
+				{
+					<div class="agileinfo_single">
+						<div class="col-md-3 agileinfo_single_left">
+							@{
+								ViewBag.ImageData = string.Format("data:image/png;base64,{0}", obj.Image);
+							}
+							<img id="example" src="@ViewBag.ImageData" alt=" " class="img-responsive">
+						</div>
+						<div class="col-md-7 agileinfo_single_right">
+							<h3>@obj.ProductName</h3>
+							<div class="rating1">
+								@*<span class="starRating">
+									<input id="rating_@obj.Rating" type="radio" name="rating" value="@obj.Rating" checked=""> <label for="rating_@obj.Rating">@obj.Rating</label>
+								</span>*@
+							</div>
+							<div class="w3agile_description">
+								<h5>Description :</h5>
+								<p>	@obj.Description 
+									<br />
+									@{
+										if (!string.IsNullOrEmpty(obj.Weight))
+										{
+											<label> &nbsp; &nbsp; &nbsp; &nbsp;@obj.Weight KG: Rs.@obj.Price</label>
+										}
+									}
+									<br />
+									@{
+										if (!string.IsNullOrEmpty(obj.Weight1))
+										{
+											<label> &nbsp; &nbsp; &nbsp; &nbsp;@obj.Weight1 KG: Rs.@obj.Price1</label>
+										}
+									}
+									<br />
+									@{
+										if (!string.IsNullOrEmpty(obj.Weight2))
+										{
+											<label> &nbsp; &nbsp; &nbsp; &nbsp;@obj.Weight2 KG: Rs.@obj.Price2</label>
+										}
+									}
+								</p>
+							</div>
+
+						</div>
+						<div class="col-md-2 right">
+							<br /><br /><br />
+							<a href="tel:7027688282" class="button" type="sumbit">Call for Order</a>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<br />
+				}
+			}
+		}
+	</div>
+</div>

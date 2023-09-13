@@ -1,0 +1,90 @@
+﻿
+@model BOL.CakeDisplayViewModel
+
+
+
+<br />
+<h1 style="text-align:center;">Inventory Addition</h1>
+<br />
+<h4 style="text-align:center;">Welcome to Cake World Gurugram</h4>
+<br />
+
+<style>
+	.lbl{
+		color:black;
+		font-size:16px;
+		height: 35px;
+		margin-top: 22px;
+		vertical-align:middle;
+		font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+	.txtbox {
+		height: 30px;
+		border-radius: 3px 3px 3px 3px;
+		font-size: 12px;
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+</style>
+<script type="text/javascript">
+	$(document).ready(function () {
+		var ddlProductCategory = document.getElementById("ddlProductCategory");
+		var ddlWeightCategory = document.getElementById("ddlWeightCategory");
+		var ddlPriceRange = document.getElementById("ddlPriceRange");
+		
+		if (ddlProductCategory === 'Select Category') {
+			return 'Please select Product Category';
+		}
+		if (ddlWeightCategory === 'Select Weight') {
+			return 'Please select Weight Category';
+		}
+		if (ddlPriceRange === 'Select Price') {
+			return 'Please select Price Category';
+		}
+
+	});
+</script>
+<div class="col-md-5 w3_agileits_contact_grid_right">
+	<form asp-action="AddProduct" asp-controller="Inventory" method="post">
+
+		<label class="col-md-12 lbl"> Product Name</label>
+		<input class="col-md-12 txtbox" type="text" asp-for="ProductName" />
+
+		<label class="col-md-12 lbl"> Description</label>
+		<input class="col-md-12 txtbox" type="text" asp-for="Description" />
+
+		<label class="col-md-12 lbl"> Image</label>
+		<input class="col-md-12 file" type="file" name="filename" asp-for="Image">
+
+		<label class="col-md-12 lbl"> Product Category</label>
+		<select class="col-md-12 txtbox" name="category" asp-for="Category" id="ddlProductCategory">
+			<option value="0">Select Category</option>
+			<option value="BlackForest">Black Forest</option>
+			<option value="ButterScotch">Butter Scotch</option>
+			<option value="Pineapple">Pineapple</option>
+			<option value="Strawberry">Strawberry</option>
+			<option value="Choco">Choco</option>
+			<option value="Foundant">Foundant</option>
+			<option value="OtherFlavours">Other Flavours</option>
+		</select>
+
+		<label class="col-md-12 lbl"> Weight Category</label>
+		<select class="col-md-12 txtbox" name="weight" asp-for="Weight" id="ddlWeightCategory">
+			<option value="0">Select Weight</option>
+			<option value="Half">Half</option>
+			<option value="One">One</option>
+		</select>
+		<label class="col-md-12 lbl"> Price Range</label>
+		<select class="col-md-12 txtbox" name="price" asp-for="Price" id="ddlPriceRange">
+			<option value="0">Select Price</option>
+			<option value="600">600</option>
+			<option value="1000">1000</option>
+			<option value="1200">1200</option>
+		</select>
+		
+
+		<input type="submit" value="Submit">
+	</form>
+</div>
+<div class="clearfix"> </div>

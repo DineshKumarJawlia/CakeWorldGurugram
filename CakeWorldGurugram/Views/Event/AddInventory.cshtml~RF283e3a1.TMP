@@ -1,0 +1,59 @@
+﻿@model 
+@{
+
+}
+
+
+<br />
+<h1 style="text-align:center;">Inventory Addition</h1>
+<br />
+<h4 style="text-align:center;">Welcome to Cake World Gurugram</h4>
+
+<style>
+	.lbl{
+		color:black;
+		font-size:16px;
+		height: 35px;
+		margin-top: 22px;
+		vertical-align:middle;
+		font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+	.txtbox {
+		height: 30px;
+		border-radius: 3px 3px 3px 3px;
+		font-size: 12px;
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+</style>
+<div class="col-md-6 w3_agileits_contact_grid_right">
+	<form asp-action="AddProduct" asp-controller="Inventory" method="post">
+
+		<label class="col-md-12 lbl"> Product Name</label>
+		@Html.TextBoxFor(model => model., htmlAttributes: new { InputType = "text", @placeholder = "Enter Product Name", @class = "form-control", required = "", @onkeypress = "return /[0-9A-Z-]/i.test(event.key)", @id="ProductName" })
+		<label class="col-md-12 lbl"> Description</label>
+		<input class="col-md-12 txtbox" type="text" />
+		<label class="col-md-12 lbl"> Image</label>
+		<input class="col-md-12 file" type="file" name="filename">
+		<label class="col-md-12 lbl"> Product Category</label>
+		<select class="col-md-12 txtbox" name="cars" id="cars">
+			<option value="volvo">Volvo</option>
+		</select>
+
+		@Html.DropDownList("")
+
+		<label class="col-md-12 lbl"> Weight Category</label>
+		<select class="col-md-12 txtbox" name="cars" id="cars">
+			<option value="volvo">Volvo</option>
+		</select>
+		<label class="col-md-12 lbl"> Price Range</label>
+		<select class="col-md-12 txtbox" name="cars" id="cars">
+			<option value="volvo">Volvo</option>
+		</select>
+		
+
+		<input type="submit" value="Submit">
+	</form>
+</div>
+<div class="clearfix"> </div>

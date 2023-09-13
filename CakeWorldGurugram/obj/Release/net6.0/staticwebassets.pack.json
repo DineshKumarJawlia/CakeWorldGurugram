@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\CakeWorldGurugram.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CakeWorldGurugram.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\css\\skdslider.css",
+      "PackagePath": "staticwebassets\\css\\skdslider.css"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\111.jpg",
+      "PackagePath": "staticwebassets\\images\\111.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\14.png",
+      "PackagePath": "staticwebassets\\images\\14.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\15.png",
+      "PackagePath": "staticwebassets\\images\\15.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\16.png",
+      "PackagePath": "staticwebassets\\images\\16.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\17.png",
+      "PackagePath": "staticwebassets\\images\\17.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\22.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\44.jpg",
+      "PackagePath": "staticwebassets\\images\\44.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\BlackForest\\Blackforest.jpg",
+      "PackagePath": "staticwebassets\\images\\BlackForest\\Blackforest.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\B3.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\B3.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\B4.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\B4.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\Banner.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\Banner.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\Banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\Banner1.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\Banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\Banner2.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\Banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\Banner3.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Cake\\Banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\Cake\\Banner4.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Index\\C1.jpeg",
+      "PackagePath": "staticwebassets\\images\\Index\\C1.jpeg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Index\\C2.jpeg",
+      "PackagePath": "staticwebassets\\images\\Index\\C2.jpeg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Index\\C3.jpeg",
+      "PackagePath": "staticwebassets\\images\\Index\\C3.jpeg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\Index\\C4.jpeg",
+      "PackagePath": "staticwebassets\\images\\Index\\C4.jpeg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv1.png",
+      "PackagePath": "staticwebassets\\images\\bv1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv2.png",
+      "PackagePath": "staticwebassets\\images\\bv2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv3.png",
+      "PackagePath": "staticwebassets\\images\\bv3.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv4.png",
+      "PackagePath": "staticwebassets\\images\\bv4.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv5.png",
+      "PackagePath": "staticwebassets\\images\\bv5.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv6.png",
+      "PackagePath": "staticwebassets\\images\\bv6.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv7.png",
+      "PackagePath": "staticwebassets\\images\\bv7.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv8.jpg",
+      "PackagePath": "staticwebassets\\images\\bv8.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv8.png",
+      "PackagePath": "staticwebassets\\images\\bv8.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\bv9.png",
+      "PackagePath": "staticwebassets\\images\\bv9.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\card.png",
+      "PackagePath": "staticwebassets\\images\\card.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\check.png",
+      "PackagePath": "staticwebassets\\images\\check.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\images\\close_1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu1.png",
+      "PackagePath": "staticwebassets\\images\\gu1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu2.png",
+      "PackagePath": "staticwebassets\\images\\gu2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu3.png",
+      "PackagePath": "staticwebassets\\images\\gu3.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu4.png",
+      "PackagePath": "staticwebassets\\images\\gu4.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu5.png",
+      "PackagePath": "staticwebassets\\images\\gu5.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu6.png",
+      "PackagePath": "staticwebassets\\images\\gu6.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu7.png",
+      "PackagePath": "staticwebassets\\images\\gu7.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu8.png",
+      "PackagePath": "staticwebassets\\images\\gu8.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\gu9.png",
+      "PackagePath": "staticwebassets\\images\\gu9.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh1.png",
+      "PackagePath": "staticwebassets\\images\\hh1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh2.png",
+      "PackagePath": "staticwebassets\\images\\hh2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh3.png",
+      "PackagePath": "staticwebassets\\images\\hh3.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh4.png",
+      "PackagePath": "staticwebassets\\images\\hh4.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh5.png",
+      "PackagePath": "staticwebassets\\images\\hh5.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh6.png",
+      "PackagePath": "staticwebassets\\images\\hh6.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh7.png",
+      "PackagePath": "staticwebassets\\images\\hh7.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh8.png",
+      "PackagePath": "staticwebassets\\images\\hh8.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\hh9.png",
+      "PackagePath": "staticwebassets\\images\\hh9.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\offer.png",
+      "PackagePath": "staticwebassets\\images\\offer.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc1.png",
+      "PackagePath": "staticwebassets\\images\\pc1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc2.png",
+      "PackagePath": "staticwebassets\\images\\pc2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc3.png",
+      "PackagePath": "staticwebassets\\images\\pc3.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc4.png",
+      "PackagePath": "staticwebassets\\images\\pc4.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc5.png",
+      "PackagePath": "staticwebassets\\images\\pc5.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc6.png",
+      "PackagePath": "staticwebassets\\images\\pc6.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc7.png",
+      "PackagePath": "staticwebassets\\images\\pc7.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc8.png",
+      "PackagePath": "staticwebassets\\images\\pc8.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pc9.jpg",
+      "PackagePath": "staticwebassets\\images\\pc9.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf1.png",
+      "PackagePath": "staticwebassets\\images\\pf1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf2.png",
+      "PackagePath": "staticwebassets\\images\\pf2.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf3.png",
+      "PackagePath": "staticwebassets\\images\\pf3.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf4.png",
+      "PackagePath": "staticwebassets\\images\\pf4.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf5.png",
+      "PackagePath": "staticwebassets\\images\\pf5.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf6.png",
+      "PackagePath": "staticwebassets\\images\\pf6.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf7.png",
+      "PackagePath": "staticwebassets\\images\\pf7.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf8.png",
+      "PackagePath": "staticwebassets\\images\\pf8.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\pf9.png",
+      "PackagePath": "staticwebassets\\images\\pf9.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\si1.jpg",
+      "PackagePath": "staticwebassets\\images\\si1.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\star.png",
+      "PackagePath": "staticwebassets\\images\\star.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\star1.png",
+      "PackagePath": "staticwebassets\\images\\star1.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\images\\t4.jpg"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\images\\tick.png",
+      "PackagePath": "staticwebassets\\images\\tick.png"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\minicart.min.js",
+      "PackagePath": "staticwebassets\\js\\minicart.min.js"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\js\\move-top.js"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "D:\\Miscellaneous\\Test_Code\\CWG\\CakeWorldGurugram\\wwwroot\\js\\skdslider.min.js",
+      "PackagePath": "staticwebassets\\js\\skdslider.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.CakeWorldGurugram.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.CakeWorldGurugram.props",
+      "PackagePath": "build\\CakeWorldGurugram.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CakeWorldGurugram.props",
+      "PackagePath": "buildMultiTargeting\\CakeWorldGurugram.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.CakeWorldGurugram.props",
+      "PackagePath": "buildTransitive\\CakeWorldGurugram.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

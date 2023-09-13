@@ -1,0 +1,79 @@
+﻿
+@model BOL.CakeDisplayViewModel
+
+
+
+<br />
+<h1 style="text-align:center;">Inventory Addition</h1>
+<br />
+<h4 style="text-align:center;">Welcome to Cake World Gurugram</h4>
+<br />
+
+<style>
+	.lbl{
+		color:black;
+		font-size:16px;
+		height: 35px;
+		margin-top: 22px;
+		vertical-align:middle;
+		font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+	.txtbox {
+		height: 30px;
+		border-radius: 3px 3px 3px 3px;
+		font-size: 12px;
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+</style>
+<script type="text/javascript">
+	$(document).ready(function () {
+		var details = document.getElementById("details");
+		var order = document.getElementById("order");
+
+		if ('@Model.DataResponce.Message' === "Order detail not found.You Can Start Creating Order..." || '@Model.DataResponce.Message' === "Upload atleast one mandatory document.") {
+			details.style.display = "block";
+			order.style.display = "none";
+		}
+		else {
+			order.style.display = "block";
+		}
+		if ('@Model.DataResponce.Message' === "Order Created Successfully.") {
+			order.style.display = "block";
+			document.getElementById('OrderIDs').value = "";
+		}
+
+	});
+</script>
+<div class="col-md-6 w3_agileits_contact_grid_right">
+	<form asp-action="AddProduct" asp-controller="Inventory" method="post">
+
+		<label class="col-md-12 lbl"> Product Name</label>
+		<input class="col-md-12 txtbox" type="text" asp-for="ProductName" />
+
+		<label class="col-md-12 lbl"> Description</label>
+		<input class="col-md-12 txtbox" type="text" asp-for="Description" />
+
+		<label class="col-md-12 lbl"> Image</label>
+		<input class="col-md-12 file" type="file" name="filename" asp-for="Image">
+
+		<label class="col-md-12 lbl"> Product Category</label>
+		<select class="col-md-12 txtbox" name="category" asp-for="Category">
+			<option value="0">Select Category</option>
+		</select>
+
+		<label class="col-md-12 lbl"> Weight Category</label>
+		<select class="col-md-12 txtbox" name="weight" asp-for="Weight">
+			<option value="0">Select Weight</option>
+		</select>
+		<label class="col-md-12 lbl"> Price Range</label>
+		<select class="col-md-12 txtbox" name="price" asp-for="Price">
+			<option value="0">Select Price</option>
+		</select>
+		
+
+		<input type="submit" value="Submit">
+	</form>
+</div>
+<div class="clearfix"> </div>
