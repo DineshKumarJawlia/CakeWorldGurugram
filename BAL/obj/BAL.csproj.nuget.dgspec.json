@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Miscellaneous\\Test_Code\\CWG\\BAL\\BAL.csproj": {}
+    "D:\\GitHub_Personal\\CakeWorldGurugram\\BAL\\BAL.csproj": {}
   },
   "projects": {
-    "D:\\Miscellaneous\\Test_Code\\CWG\\BAL\\BAL.csproj": {
+    "D:\\GitHub_Personal\\CakeWorldGurugram\\BAL\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Miscellaneous\\Test_Code\\CWG\\BAL\\BAL.csproj",
+        "projectUniqueName": "D:\\GitHub_Personal\\CakeWorldGurugram\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\BAL\\BAL.csproj",
+        "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\BAL\\BAL.csproj",
         "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
-        "outputPath": "D:\\Miscellaneous\\Test_Code\\CWG\\BAL\\obj\\",
+        "outputPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\BAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj"
+              "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj"
               },
-              "D:\\Miscellaneous\\Test_Code\\CWG\\CAKEDATA\\CAKEDATA.csproj": {
-                "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\CAKEDATA\\CAKEDATA.csproj"
+              "D:\\GitHub_Personal\\CakeWorldGurugram\\CAKEDATA\\CAKEDATA.csproj": {
+                "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\CAKEDATA\\CAKEDATA.csproj"
               }
             }
           }
@@ -66,25 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj": {
+    "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj",
+        "projectUniqueName": "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj",
+        "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
-        "outputPath": "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\obj\\",
+        "outputPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -131,25 +123,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Miscellaneous\\Test_Code\\CWG\\CAKEDATA\\CAKEDATA.csproj": {
+    "D:\\GitHub_Personal\\CakeWorldGurugram\\CAKEDATA\\CAKEDATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Miscellaneous\\Test_Code\\CWG\\CAKEDATA\\CAKEDATA.csproj",
+        "projectUniqueName": "D:\\GitHub_Personal\\CakeWorldGurugram\\CAKEDATA\\CAKEDATA.csproj",
         "projectName": "CAKEDATA",
-        "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\CAKEDATA\\CAKEDATA.csproj",
+        "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\CAKEDATA\\CAKEDATA.csproj",
         "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
-        "outputPath": "D:\\Miscellaneous\\Test_Code\\CWG\\CAKEDATA\\obj\\",
+        "outputPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\CAKEDATA\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,11 +151,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\BOL\\BOL.csproj"
+              "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\BOL\\BOL.csproj"
               },
-              "D:\\Miscellaneous\\Test_Code\\CWG\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\DAL\\DAL.csproj"
+              "D:\\GitHub_Personal\\CakeWorldGurugram\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\DAL\\DAL.csproj"
               }
             }
           }
@@ -203,25 +191,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Miscellaneous\\Test_Code\\CWG\\DAL\\DAL.csproj": {
+    "D:\\GitHub_Personal\\CakeWorldGurugram\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Miscellaneous\\Test_Code\\CWG\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\GitHub_Personal\\CakeWorldGurugram\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Miscellaneous\\Test_Code\\CWG\\DAL\\DAL.csproj",
+        "projectPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
-        "outputPath": "D:\\Miscellaneous\\Test_Code\\CWG\\DAL\\obj\\",
+        "outputPath": "D:\\GitHub_Personal\\CakeWorldGurugram\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -272,7 +256,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -32,13 +32,19 @@ namespace CakeWorldGurugram.Controllers
 			}
 
             return View(view);
-		}
+        }
 
-		[HttpGet]
-		public IActionResult ContactUs()
-		{
-			return View("~/Views/Home/ContactUs.cshtml");
-		}
+        [HttpGet]
+        public IActionResult Payment()
+        {
+            return View("~/Views/Home/Payment.cshtml");
+        }
+
+        [HttpGet]
+        public IActionResult ContactUs()
+        {
+            return View("~/Views/Home/ContactUs.cshtml");
+        }
 
         [HttpPost]
 		public IActionResult ContactUs(string Name, string Email, string Message)

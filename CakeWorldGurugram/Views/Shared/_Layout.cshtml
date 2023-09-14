@@ -119,18 +119,18 @@
 					</button>
 				</div>
 				<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
-					<ul class="nav navbar-nav">
-						<li class="active">	@Html.ActionLink("Home","Index","Home") </li>
-						<li class="active">	@Html.ActionLink("Black Forest","GetCategory","Product", new { categoryName = "BlackForest" }) </li>
-						<li class="active">	@Html.ActionLink("Butter Scotch","GetCategory","Product", new { categoryName = "ButterScotch" }) </li>
-						<li class="active">	@Html.ActionLink("Pineapple","GetCategory","Product", new { categoryName = "Pineapple" }) </li>
-						<li class="active">	@Html.ActionLink("Strawberry","GetCategory","Product", new { categoryName = "Strawberry" }) </li>
-						<li class="active">	@Html.ActionLink("Choco","GetCategory","Product", new { categoryName = "Choco" }) </li>
-						<li class="active">	@Html.ActionLink("Foundant","GetCategory","Product", new { categoryName = "Foundant" }) </li>
-						<li class="active">	@Html.ActionLink("Other Flavours","GetCategory","Product", new { categoryName = "OtherFlavours" }) </li>
-						<li class="active">	@Html.ActionLink("Contact Us","ContactUs","Home") </li>
-						<li class="active" style="display:none;">@Html.ActionLink("Inventory","AddProduct","Inventory") </li>
-					</ul>
+                    <ul class="nav navbar-nav">
+                        <li class="active">	@Html.ActionLink("Home", "Index", "Home") </li>
+                        <li class="active">	@Html.ActionLink("Black Forest", "GetCategory", "Product", new { categoryName = "BlackForest" }) </li>
+                        <li class="active">	@Html.ActionLink("Butter Scotch", "GetCategory", "Product", new { categoryName = "ButterScotch" }) </li>
+                        <li class="active">	@Html.ActionLink("Pineapple", "GetCategory", "Product", new { categoryName = "Pineapple" }) </li>
+                        <li class="active">	@Html.ActionLink("Strawberry", "GetCategory", "Product", new { categoryName = "Strawberry" }) </li>
+                        <li class="active">	@Html.ActionLink("Choco", "GetCategory", "Product", new { categoryName = "Choco" }) </li>
+                        <li class="active">	@Html.ActionLink("Foundant", "GetCategory", "Product", new { categoryName = "Foundant" }) </li>
+                        <li class="active">	@Html.ActionLink("Other Flavours", "GetCategory", "Product", new { categoryName = "OtherFlavours" }) </li>
+                        <li class="active">	@Html.ActionLink("Pay", "Payment", "Home") </li>
+                        <li class="active" style="display:none;">@Html.ActionLink("Inventory", "AddProduct", "Inventory") </li>
+                    </ul>
 				</div>
 			</nav>
 		</div>
@@ -158,6 +158,7 @@
 							<li>@Html.ActionLink("Terms and Conditions", "Docx", "Home", new { FileName = "TermsConditions" })</li>
 							<li>@Html.ActionLink("Privacy and Policy", "Docx", "Home", new { FileName = "PrivacyPolicy" })</li>
 							<li>@Html.ActionLink("Designed and Developed By", "DesignDevelopBy", "Home", new { FileName = "PrivacyPolicy" })</li>
+							<li>@Html.ActionLink("Contact Us", "ContactUs", "Home") </li>
 					</ul>
 				</div>
 				<div class="col-md-4 w3_footer_grid">
